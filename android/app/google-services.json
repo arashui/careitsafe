@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "689862758053",
+    "project_id": "careitsafe-31ef4",
+    "storage_bucket": "careitsafe-31ef4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689862758053:android:9bd81f42f474a0eee7474c",
+        "android_client_info": {
+          "package_name": "com.kangleiinovations.careitsafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJei8p34NW4bOHbwd0hJuNNicFgPoaKY"
+        }
+      ],
+      "google_app_id": "1:689862758053:android:9bd81f42f474a0eee7474c",
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
